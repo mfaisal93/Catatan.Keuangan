@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Catatan Keuangan</string>
+
+    <string name="title_login">Catatan Keungan</string>
+    <string name="nama_pemasukan">Nama pemasukan</string>
+    <string name="total_pemasukan">Total pemasukan</string>
+    <string name="tanggal">Tanggal</string>
+    <string name="simpan">Simpan</string>
+    <string name="perbarui">Perbarui</string>
+    <string name="pemasukan">Pemasukan</string>
+    <string name="pengeluaran">Pengeluaran</string>
+    <string name="akun">Akun Saya</string>
+    <string name="catatan_pengeluaran">Catatan Pengeluaran</string>
+    <string name="daftar_pengeluaran">Daftar Pengeluaran</string>
+    <string name="catatan_pemasukan">Catatan Pemasukan</string>
+    <string name="daftar_pemasukan">Daftar Pemasukan</string>
+    <string name="nama_pengeluaran">Nama Pengeluaran</string>
+    <string name="total_pengeluaran">Total Pengeluaran</string>
+
+
+</resources>

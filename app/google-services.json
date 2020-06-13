@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "646711162608",
+    "firebase_url": "https://catatan-keuangan-f3d6b.firebaseio.com",
+    "project_id": "catatan-keuangan-f3d6b",
+    "storage_bucket": "catatan-keuangan-f3d6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646711162608:android:017fc8b801cdfc60eeb435",
+        "android_client_info": {
+          "package_name": "com.faisal.catatankeuangan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646711162608-0lk7i2pi32k75noi7v74v7p0ao31up8d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.faisal.catatankeuangan",
+            "certificate_hash": "5c4998a4cfd9ff61c9d045135616686013b5ec4f"
+          }
+        },
+        {
+          "client_id": "646711162608-sktktiv9lguolgbfqjtf867p2sri987n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD2EYl5YbL1LXwz2L9d8VgTvZ8f-sn-ro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646711162608-sktktiv9lguolgbfqjtf867p2sri987n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
